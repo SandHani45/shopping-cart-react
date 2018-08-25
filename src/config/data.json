@@ -1,0 +1,214 @@
+[
+  {
+    "p_id": "0",
+    "p_image": "https://www.decathlon.co.uk/media/835/8355739/big_a5d87ec826ce47c589989003c0ea93f2.jpg",
+    "p_name": "cotton tshirt",
+    "p_variation": "solid green",
+    "p_style": "ms13kt1906",
+    "p_selected_color": {
+      "name": "blue",
+      "hexcode": "#1169BD"
+    },
+    "p_selected_size": {
+      "name": "small",
+      "code": "s"
+    },
+    "p_available_options": {
+      "colors": [
+        {
+          "name": "green",
+          "hexcode": "#A3D2A1"
+        },
+        {
+          "name": "yellow",
+          "hexcode": "#F9F8E6"
+        },
+        {
+          "name": "blue",
+          "hexcode": "#1169BD"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "small",
+          "code": "s"
+        },
+        {
+          "name": "medium",
+          "code": "m"
+        },
+        {
+          "name": "large",
+          "code": "l"
+        },
+        {
+          "name": "extra large",
+          "code": "xl"
+        }
+      ]
+    },
+    "p_quantity": 1,
+    "p_originalprice": 11,
+    "p_price": 11,
+    "c_currency": "$"
+  },
+  {
+    "p_id": "1",
+    "p_name": "print girls tee",
+    "p_image": "https://www.decathlon.co.uk/media/838/8383251/big_7ddde85d-8b05-4245-9b95-5fec4fbba7e3.jpg",
+    "p_variation": "pink rainbow",
+    "p_style": "ms13kt1906",
+    "p_selected_color": {
+      "name": "pink",
+      "hexcode": "#F1DDEF"
+    },
+    "p_selected_size": {
+      "name": "small",
+      "code": "s"
+    },
+    "p_available_options": {
+      "colors": [
+        {
+          "name": "green",
+          "hexcode": "#A3D2A1"
+        },
+        {
+          "name": "yellow",
+          "hexcode": "#F9F8E6"
+        },
+        {
+          "name": "pink",
+          "hexcode": "#F1DDEF"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "small",
+          "code": "s"
+        },
+        {
+          "name": "medium",
+          "code": "m"
+        },
+        {
+          "name": "large",
+          "code": "l"
+        },
+        {
+          "name": "extra large",
+          "code": "xl"
+        }
+      ]
+    },
+    "p_quantity": 1,
+    "p_originalprice": 17,
+    "p_price": 17,
+    "c_currency": "$"
+  },
+  {
+    "p_id": "2",
+    "p_name": "flower pattern shirt",
+    "p_image": "https://www.decathlon.co.uk/media/849/8492287/big_a2441a79-514e-47eb-a9b8-8b0d825de781.jpg",
+    "p_variation": "blue",
+    "p_style": "ms13kt1906",
+    "p_selected_color": {
+      "name": "blue",
+      "hexcode": "#1169BD"
+    },
+    "p_selected_size": {
+      "name": "small",
+      "code": "s"
+    },
+    "p_available_options": {
+      "colors": [
+        {
+          "name": "green",
+          "hexcode": "#A3D2A1"
+        },
+        {
+          "name": "blue",
+          "hexcode": "#1169BD"
+        },
+        {
+          "name": "red",
+          "hexcode": "#ED99A8"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "small",
+          "code": "s"
+        },
+        {
+          "name": "medium",
+          "code": "m"
+        },
+        {
+          "name": "large",
+          "code": "l"
+        },
+        {
+          "name": "extra large",
+          "code": "xl"
+        }
+      ]
+    },
+    "p_quantity": 1,
+    "p_originalprice": 21,
+    "p_price": 9,
+    "c_currency": "$"
+  },
+  {
+    "p_id": "3",
+    "p_name": "check pattern tshirt",
+    "p_image": "https://www.decathlon.co.uk/media/850/8503900/big_f116560d-02a8-41cb-b281-bef0e1eeabad.jpg",
+    "p_variation": "mens red",
+    "p_style": "ms13kt1906",
+    "p_selected_color": {
+      "name": "red",
+      "hexcode": ""
+    },
+    "p_selected_size": {
+      "name": "medium",
+      "code": "m"
+    },
+    "p_available_options": {
+      "colors": [
+        {
+          "name": "green",
+          "hexcode": "#A3D2A1"
+        },
+        {
+          "name": "yellow",
+          "hexcode": "#F9F8E6"
+        },
+        {
+          "name": "red",
+          "hexcode": "#ED99A8"
+        }
+      ],
+      "sizes": [
+        {
+          "name": "small",
+          "code": "s"
+        },
+        {
+          "name": "medium",
+          "code": "m"
+        },
+        {
+          "name": "large",
+          "code": "l"
+        },
+        {
+          "name": "extra large",
+          "code": "xl"
+        }
+      ]
+    },
+    "p_quantity": 1,
+    "p_originalprice": 22,
+    "p_price": 22,
+    "c_currency": "$"
+  }
+]
